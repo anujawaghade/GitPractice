@@ -8,3 +8,4 @@ Thank you for contributing to this Git practice repository.
 - Commit your changes with clear messages.
 - Open a Pull Request.
 - Address review feedback before merging.
+- Write clear and meaningful commit messages.
